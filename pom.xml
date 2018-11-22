@@ -6,7 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<scm>
-		<connection>scm:git:git@github.com:Jannlk/officiel-lab-production.git</connection>
+		<connection>scm:git:git://github.com:Jannlk/officiel-lab-production.git</connection>
 		<developerConnection>scm:git:git@github.com:Jannlk/officiel-lab-production.git</developerConnection>
 		<url>https://github.com/Jannlk/officiel-lab-production</url>
 		<tag>HEAD</tag>
